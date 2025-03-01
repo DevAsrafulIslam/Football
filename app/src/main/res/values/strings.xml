@@ -1,0 +1,254 @@
+<resources>
+    <string name="app_name">Interim Government of Bangladesh</string>
+
+
+    <string-array name="country_title_name">
+        <item>Bangladesh</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>Germany</item>
+        <item>Spain</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Netherlands</item>
+        <item>Portugal</item>
+
+    </string-array>
+
+
+    <string-array name="players_bangladesh">
+        <item>Kazi Salahuddin</item>
+        <item>Monem Munna</item>
+        <item>Enamul Haque</item>
+        <item>Jamal Bhuyan</item>
+        <item>Mamunul Islam</item>
+        <item>Alfaz Ahmed</item>
+        <item>Arif Hossain</item>
+        <item>Nazmul Hossain</item>
+        <item>Sabbir Rahman</item>
+        <item>Sohel Rana</item>
+    </string-array>
+
+    <string-array name="players_brazil">
+        <item>Pelé</item>
+        <item>Zico</item>
+        <item>Romário</item>
+        <item>Ronaldo</item>
+        <item>Ronaldinho</item>
+        <item>Rivaldo</item>
+        <item>Kaká</item>
+        <item>Neymar</item>
+        <item>Roberto Carlos</item>
+        <item>Cafu</item>
+    </string-array>
+
+    <string-array name="players_argentina">
+        <item>Diego Maradona</item>
+        <item>Lionel Messi</item>
+        <item>Gabriel Batistuta</item>
+        <item>Juan Román Riquelme</item>
+        <item>Sergio Agüero</item>
+        <item>Ángel Di María</item>
+        <item>Javier Zanetti</item>
+        <item>Carlos Tevez</item>
+        <item>Ricardo Bochini</item>
+        <item>Omar Sivori</item>
+    </string-array>
+
+    <string-array name="players_germany">
+        <item>Franz Beckenbauer</item>
+        <item>Gerd Müller</item>
+        <item>Lothar Matthäus</item>
+        <item>Miroslav Klose</item>
+        <item>Manuel Neuer</item>
+        <item>Bastian Schweinsteiger</item>
+        <item>Thomas Müller</item>
+        <item>Jürgen Klinsmann</item>
+        <item>Philipp Lahm</item>
+        <item>Oliver Kahn</item>
+    </string-array>
+
+    <string-array name="players_spain">
+        <item>Xavi</item>
+        <item>Andrés Iniesta</item>
+        <item>Sergio Ramos</item>
+        <item>Iker Casillas</item>
+        <item>David Villa</item>
+        <item>Fernando Torres</item>
+        <item>Gerard Piqué</item>
+        <item>Xabi Alonso</item>
+        <item>Carles Puyol</item>
+        <item>Cesc Fàbregas</item>
+    </string-array>
+
+    <string-array name="players_england">
+        <item>Bobby Charlton</item>
+        <item>David Beckham</item>
+        <item>Wayne Rooney</item>
+        <item>Paul Scholes</item>
+        <item>Steven Gerrard</item>
+        <item>Frank Lampard</item>
+        <item>John Terry</item>
+        <item>Alan Shearer</item>
+        <item>Gary Neville</item>
+        <item>Rio Ferdinand</item>
+    </string-array>
+
+    <string-array name="players_france">
+        <item>Zinedine Zidane</item>
+        <item>Thierry Henry</item>
+        <item>Michel Platini</item>
+        <item>Didier Deschamps</item>
+        <item>Laurent Blanc</item>
+        <item>Lilian Thuram</item>
+        <item>Patrick Vieira</item>
+        <item>Kylian Mbappé</item>
+        <item>Antoine Griezmann</item>
+        <item>Paul Pogba</item>
+    </string-array>
+
+    <string-array name="players_netherlands">
+        <item>Johan Cruyff</item>
+        <item>Marco van Basten</item>
+        <item>Ruud Gullit</item>
+        <item>Dennis Bergkamp</item>
+        <item>Frank de Boer</item>
+        <item>Clarence Seedorf</item>
+        <item>Arjen Robben</item>
+        <item>Robin van Persie</item>
+        <item>Edwin van der Sar</item>
+        <item>Phillip Cocu</item>
+    </string-array>
+
+    <string-array name="players_portugal">
+        <item>Cristiano Ronaldo</item>
+        <item>Eusébio</item>
+        <item>Luís Figo</item>
+        <item>Rui Costa</item>
+        <item>Ricardo Quaresma</item>
+        <item>Deco</item>
+        <item>Nani</item>
+        <item>Pauleta</item>
+        <item>Fernando Couto</item>
+        <item>João Pinto</item>
+    </string-array>
+
+    <string-array name="players_bangladesh_links">
+        <item>https://en.wikipedia.org/wiki/Kazi_Salahuddin</item>
+        <item>https://en.wikipedia.org/wiki/Monem_Munna</item>
+        <item>https://en.wikipedia.org/wiki/Enamul_Haque</item>
+        <item>https://en.wikipedia.org/wiki/Jamal_Bhuyan</item>
+        <item>https://en.wikipedia.org/wiki/Mamunul_Islam</item>
+        <item>https://en.wikipedia.org/wiki/Alfaz_Ahmed</item>
+        <item>https://en.wikipedia.org/wiki/Arif_Hossain</item>
+        <item>https://en.wikipedia.org/wiki/Nazmul_Hossain</item>
+        <item>https://en.wikipedia.org/wiki/Sabbir_Rahman</item>
+        <item>https://en.wikipedia.org/wiki/Sohel_Rana</item>
+    </string-array>
+
+    <string-array name="players_brazil_links">
+        <item>https://en.wikipedia.org/wiki/Pelé</item>
+        <item>https://en.wikipedia.org/wiki/Zico</item>
+        <item>https://en.wikipedia.org/wiki/Romário</item>
+        <item>https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)</item>
+        <item>https://en.wikipedia.org/wiki/Ronaldinho</item>
+        <item>https://en.wikipedia.org/wiki/Rivaldo</item>
+        <item>https://en.wikipedia.org/wiki/Kaká</item>
+        <item>https://en.wikipedia.org/wiki/Neymar</item>
+        <item>https://en.wikipedia.org/wiki/Roberto_Carlos_(footballer)</item>
+        <item>https://en.wikipedia.org/wiki/Cafu</item>
+    </string-array>
+
+    <string-array name="players_argentina_links">
+        <item>https://en.wikipedia.org/wiki/Diego_Maradona</item>
+        <item>https://en.wikipedia.org/wiki/Lionel_Messi</item>
+        <item>https://en.wikipedia.org/wiki/Gabriel_Batistuta</item>
+        <item>https://en.wikipedia.org/wiki/Juan_Rom%C3%A1n_Riquelme</item>
+        <item>https://en.wikipedia.org/wiki/Sergio_Ag%C3%BCero</item>
+        <item>https://en.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa</item>
+        <item>https://en.wikipedia.org/wiki/Javier_Zanetti</item>
+        <item>https://en.wikipedia.org/wiki/Carlos_Tevez</item>
+        <item>https://en.wikipedia.org/wiki/Ricardo_Bochini</item>
+        <item>https://en.wikipedia.org/wiki/Omar_Sivori</item>
+    </string-array>
+
+    <string-array name="players_germany_links">
+        <item>https://en.wikipedia.org/wiki/Franz_Beckenbauer</item>
+        <item>https://en.wikipedia.org/wiki/Gerd_M%C3%BCller</item>
+        <item>https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us</item>
+        <item>https://en.wikipedia.org/wiki/Miroslav_Klose</item>
+        <item>https://en.wikipedia.org/wiki/Manuel_Neuer</item>
+        <item>https://en.wikipedia.org/wiki/Bastian_Schweinsteiger</item>
+        <item>https://en.wikipedia.org/wiki/Thomas_M%C3%BCller</item>
+        <item>https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann</item>
+        <item>https://en.wikipedia.org/wiki/Philipp_Lahm</item>
+        <item>https://en.wikipedia.org/wiki/Oliver_Kahn</item>
+    </string-array>
+
+    <string-array name="players_spain_links">
+        <item>https://en.wikipedia.org/wiki/Xavi</item>
+        <item>https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta</item>
+        <item>https://en.wikipedia.org/wiki/Sergio_Ramos</item>
+        <item>https://en.wikipedia.org/wiki/Iker_Casillas</item>
+        <item>https://en.wikipedia.org/wiki/David_Villa</item>
+        <item>https://en.wikipedia.org/wiki/Fernando_Torres</item>
+        <item>https://en.wikipedia.org/wiki/Gerard_Piqu%C3%A9</item>
+        <item>https://en.wikipedia.org/wiki/Xabi_Alonso</item>
+        <item>https://en.wikipedia.org/wiki/Carles_Puyol</item>
+        <item>https://en.wikipedia.org/wiki/Cesc_F%C3%A0bregas</item>
+    </string-array>
+
+    <string-array name="players_england_links">
+        <item>https://en.wikipedia.org/wiki/Bobby_Charlton</item>
+        <item>https://en.wikipedia.org/wiki/David_Beckham</item>
+        <item>https://en.wikipedia.org/wiki/Wayne_Rooney</item>
+        <item>https://en.wikipedia.org/wiki/Paul_Scholes</item>
+        <item>https://en.wikipedia.org/wiki/Steven_Gerrard</item>
+        <item>https://en.wikipedia.org/wiki/Frank_Lampard</item>
+        <item>https://en.wikipedia.org/wiki/John_Terry</item>
+        <item>https://en.wikipedia.org/wiki/Alan_Shearer</item>
+        <item>https://en.wikipedia.org/wiki/Gary_Neville</item>
+        <item>https://en.wikipedia.org/wiki/Rio_Ferdinand</item>
+    </string-array>
+
+    <string-array name="players_france_links">
+        <item>https://en.wikipedia.org/wiki/Zinedine_Zidane</item>
+        <item>https://en.wikipedia.org/wiki/Thierry_Henry</item>
+        <item>https://en.wikipedia.org/wiki/Michel_Platini</item>
+        <item>https://en.wikipedia.org/wiki/Didier_Deschamps</item>
+        <item>https://en.wikipedia.org/wiki/Laurent_Blanc</item>
+        <item>https://en.wikipedia.org/wiki/Lilian_Thuram</item>
+        <item>https://en.wikipedia.org/wiki/Patrick_Vieira</item>
+        <item>https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9</item>
+        <item>https://en.wikipedia.org/wiki/Antoine_Griezmann</item>
+        <item>https://en.wikipedia.org/wiki/Paul_Pogba</item>
+    </string-array>
+
+    <string-array name="players_netherlands_links">
+        <item>https://en.wikipedia.org/wiki/Johan_Cruyff</item>
+        <item>https://en.wikipedia.org/wiki/Marco_van_Basten</item>
+        <item>https://en.wikipedia.org/wiki/Ruud_Gullit</item>
+        <item>https://en.wikipedia.org/wiki/Dennis_Bergkamp</item>
+        <item>https://en.wikipedia.org/wiki/Frank_de_Boer</item>
+        <item>https://en.wikipedia.org/wiki/Clarence_Seedorf</item>
+        <item>https://en.wikipedia.org/wiki/Arjen_Robben</item>
+        <item>https://en.wikipedia.org/wiki/Robin_van_Persie</item>
+        <item>https://en.wikipedia.org/wiki/Edwin_van_der_Sar</item>
+        <item>https://en.wikipedia.org/wiki/Phillip_Cocu</item>
+    </string-array>
+
+    <string-array name="players_portugal_links">
+        <item>https://en.wikipedia.org/wiki/Cristiano_Ronaldo</item>
+        <item>https://en.wikipedia.org/wiki/Eus%C3%A9bio</item>
+        <item>https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo</item>
+        <item>https://en.wikipedia.org/wiki/Rui_Costa</item>
+        <item>https://en.wikipedia.org/wiki/Ricardo_Quaresma</item>
+        <item>https://en.wikipedia.org/wiki/Deco</item>
+        <item>https://en.wikipedia.org/wiki/Nani_(footballer)</item>
+        <item>https://en.wikipedia.org/wiki/Pauleta</item>
+        <item>https://en.wikipedia.org/wiki/Fernando_Couto</item>
+        <item>https://en.wikipedia.org/wiki/Jo%C3%A3o_Pinto</item>
+    </string-array>
+
+
+</resources>
